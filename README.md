@@ -60,6 +60,29 @@ Throughout my career, I have administered Linux systems, configured network equi
  
  ---
 
+ <h3 align="left">🔥   My Statistics:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=honorwizz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=honorwizz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=honorwizz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+ <h3 align="left">🔥   My Trophies:</h3>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=honorwizz)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ---
+
 [🔼 Back to top](#-select-language--выберите-язык)
 
 ---
@@ -117,6 +140,29 @@ Throughout my career, I have administered Linux systems, configured network equi
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Email" />
   </a>
 </div>
+
+---
+
+ <h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=honorwizz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=honorwizz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=honorwizz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+ <h3 align="left">🔥   Мои трофеи:</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=honorwizz)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
