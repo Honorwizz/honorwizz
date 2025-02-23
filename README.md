@@ -1,33 +1,54 @@
-### 👋 Привет, меня зовут Абас!
+## 🌍 Select language / Выберите язык:
+[🇬🇧 English](#-hi-im-your-name) | [🇷🇺 Русский](#-привет-я-ваше-имя)
 
-🚀 DevOps Engineer | System Administrator  
-📍 Работаю с Docker, Kubernetes, CI/CD, Terraform, Ansible  
-🔧 Автоматизирую процессы и разворачиваю инфраструктуру  
+---
+
+## 🇬🇧 Hi, I'm [Your Name]!
+🚀 **DevOps Engineer | System Administrator**  
+📍 Working with **Docker, Kubernetes, CI/CD, Terraform, Ansible**  
+🔧 Automating processes and deploying infrastructure  
+
+### 🔥 What I do?
+- 🛠 **Automation & Orchestration** (Terraform, Ansible, Kubernetes)
+- 📦 **Containerization** (Docker, Podman)
+- 🔄 **CI/CD Pipelines** (GitHub Actions, GitLab CI/CD, Jenkins)
+- ☁ **Cloud** (AWS, GCP, Yandex Cloud)
+- 🔍 **Monitoring & Logging** (Prometheus, Grafana, ELK Stack)
+
+### 📌 Recent Projects
+- [**Automated Nginx deployment with Ansible**](https://github.com/your-profile/ansible-nginx)
+- [**Kubernetes cluster for testing environments**](https://github.com/your-profile/k8s-test-cluster)
+- [**GitHub Actions for Docker-based CI/CD**](https://github.com/your-profile/github-actions-docker)
+
+### 📫 Contacts
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🐦 [Telegram](https://t.me/your-username)  
+📧 Email: your@email.com  
+
+[🔼 Back to top](#-select-language--выберите-язык)
+
+---
+
+## 🇷🇺 Привет, я [Ваше имя]!
+🚀 **DevOps-инженер | Системный администратор**  
+📍 Работаю с **Docker, Kubernetes, CI/CD, Terraform, Ansible**  
+🔧 Автоматизирую процессы и развертываю инфраструктуру  
 
 ### 🔥 Чем я занимаюсь?
 - 🛠 **Автоматизация и оркестрация** (Terraform, Ansible, Kubernetes)
 - 📦 **Контейнеризация** (Docker, Podman)
-- 🔄 **CI/CD** (GitHub Actions, GitLab CI/CD, Jenkins)
-- ☁ **Облака** (AWS, GCP, Yandex Cloud)
-- 🔍 **Мониторинг** (Prometheus, Grafana, ELK Stack)
-
----
+- 🔄 **CI/CD Конвейеры** (GitHub Actions, GitLab CI/CD, Jenkins)
+- ☁ **Облачные сервисы** (AWS, GCP, Yandex Cloud)
+- 🔍 **Мониторинг и логирование** (Prometheus, Grafana, ELK Stack)
 
 ### 📌 Последние проекты
-- [**Автоматизированный деплой Nginx + Let's Encrypt с Ansible**](https://github.com/your-profile/ansible-nginx)
-- [**Kubernetes кластер для тестовой среды**](https://github.com/your-profile/k8s-test-cluster)
+- [**Автоматизированное развертывание Nginx с Ansible**](https://github.com/your-profile/ansible-nginx)
+- [**Kubernetes-кластер для тестовой среды**](https://github.com/your-profile/k8s-test-cluster)
 - [**GitHub Actions для CI/CD с Docker**](https://github.com/your-profile/github-actions-docker)
-
----
 
 ### 📫 Контакты
 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐦 [Telegram](https://t.me/mmanjato)  
-📧 Email: abas.tgg98@yandex.ru
+🐦 [Telegram](https://t.me/your-username)  
+📧 Email: your@email.com  
 
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=dark)
-
-
-![Статистика языков](https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact)
-![Достижения](https://github-profile-trophy.vercel.app/?username=your-profile&theme=onedark)
+[🔼 Наверх](#-select-language--выберите-язык)
